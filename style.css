@@ -24,7 +24,7 @@ ul{
     background-color: #ececec;
 }
 .logo{
-    padding-left:5em;
+    padding-left:2em;
 }
 
 .logo-text{
@@ -32,7 +32,7 @@ ul{
 }
 
 .menubar{
-    width:50%;
+    width:45%;
     margin-left:8.5em;
 }
 .list{
@@ -51,7 +51,7 @@ ul{
 }
 
 .cart{
-    padding-right: 5em;
+    padding-right: 2em;
     position: relative;
 }
 
